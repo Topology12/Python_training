@@ -1,0 +1,6 @@
+n = input("Nhập vào một số nguên n: ")
+z = input("Nhập vào một số thực z: ")
+s = input("Nhập vào một chuỗi s: ")
+print(n)
+print(z)
+print(s)
