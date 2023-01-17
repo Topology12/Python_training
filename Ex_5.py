@@ -11,4 +11,4 @@ while n > 0:
     sum_n += dv
     n //= 10
 
-print(sum_n)
+print(f"So cac so nguyen to", sum_n)
