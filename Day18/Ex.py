@@ -3,9 +3,10 @@ from tkinter import ttk
 from tkinter.ttk import Label
 
 root = tk.Tk()
+root.title('Label Basics!')
+root.iconbitmap("think.ico")
 root.geometry('400x400')
 root.resizable(0,0)
-root.title('Label Basics!')
 root.config(bg='blue')
 
 
